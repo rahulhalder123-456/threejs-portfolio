@@ -1,0 +1,7 @@
+Rahul Halder is a cybersecurity specialist, full-stack developer, and ethical hacker passionate about AI and robotics. With experience in building secure web apps, offensive tools, and autonomous systems, he integrates AI into real-world applications.
+
+He has worked on ARP Spoofers, Network Scanners, SLAM-enabled robots, and AI-powered chatbots. Rahul was a Cloud Security Intern at IIEST Shibpur and frequently contributes to open-source cybersecurity tooling.
+
+Skilled in React, Flask, Python, and tools like Metasploit, Wireshark, and Docker, he thrives at the intersection of software, security, and embedded systems. Whether it's securing web apps, breaking into CTFs, or training AI bots — Rahul does it all.
+
+Ask anything about his projects, research, or skill set!

@@ -1,0 +1,21 @@
+Languages:
+- Python, JavaScript, C, C++, HTML, CSS, Bash
+
+Frameworks & Libraries:
+- React, Next.js, TailwindCSS, Flask, Express, Three.js, TensorFlow
+
+Tools:
+- Metasploit, Nmap, Wireshark, Scapy, Git, Burp Suite, Docker, OpenCV
+
+Platforms:
+- Raspberry Pi, AWS, Firebase, TryHackMe, HackTheBox
+
+Certifications:
+- Offensive Security Certified Professional (OSCP) [in progress]
+- CompTIA Security+ [planned]
+
+Achievements:
+- Top 2% on TryHackMe
+- Rank #877 on HackTheBox
+- Winner of CodeIIEST CTF
+- Speaker at CyberCon 2024

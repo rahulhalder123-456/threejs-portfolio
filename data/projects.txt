@@ -1,0 +1,23 @@
+Project: Autonomous SLAM Robot
+- Built using Raspberry Pi, ultrasonic sensors, and Python.
+- Implements real-time SLAM to navigate unknown environments.
+- Integrated with OpenCV for visual detection tasks.
+
+Project: ARP Spoofer & Vulnerability Scanner
+- Developed in Python using Scapy and sockets.
+- Performs ARP poisoning, device discovery, and port scanning.
+- Used in controlled lab environments for training.
+
+Project: Portfolio Website with AI Chatbot
+- Stack: Three.js, React, TailwindCSS, Flask.
+- Features a locally-run AI chatbot (Ollama) that answers queries about Rahul’s profile.
+- Built with glassmorphism UI and interactive 3D scenes.
+
+Project: AI-Powered Code Explainer
+- Parses low-level binary/code and explains its functionality using LLMs.
+- Useful for CTF reverse engineering challenges and learning tools.
+
+Project: Secure Auth WebApp
+- Uses Flask, JWT, and bcrypt for user authentication.
+- Integrates reCAPTCHA and rate limiting for brute-force protection.
+- Deployed on AWS with CI/CD.
