@@ -7,15 +7,24 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+dist-ssr/
+
+# Local environment files
+.env
+.env.*.local
 *.local
 
 # Editor directories and files
-.vscode/*
+.vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
@@ -23,5 +32,21 @@ dist-ssr
 *.sln
 *.sw?
 
-# env
-.env
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# WebStorm project files
+*.iml
+*.iws
+*.ipr
+
+# Misc
+coverage/
+.cache/
+.next/
+*.log
+
+# Optional: ignore static assets output (uncomment if needed)
+# public/assets/
